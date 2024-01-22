@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="plintiran" size="1.000000 1.041261" />
+    <ImageTarget name="kibasan" size="1.000000 1.041261" />
+    <ImageTarget name="guntingan" size="1.000000 1.041261" />
+    <ImageTarget name="goyangan" size="1.000000 1.041261" />
+    <ImageTarget name="simetris" size="1.000000 1.041261" />
+    <ImageTarget name="asimetris" size="1.000000 1.041261" />
+    <ImageTarget name="Model" size="1.000000 1.000000" />
+    <ImageTarget name="Fenomeno" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
